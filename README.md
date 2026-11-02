@@ -78,22 +78,7 @@ O Inventra faz a gestão de estoque e o controle de movimentações (entradas e 
 
 ## Requisitos
 
-As fontes oficiais são o [PDF](requisitos-sistema/Documento%20de%20Requisitos%20Funcionais%203.0%20-%20Inventra.pdf) e a [planilha](requisitos-sistema/requisitos_estoque_cozinha.xlsx). As listas abaixo são uma cópia para leitura no GitHub, e o agrupamento por área existe só neste README.
-
-| Área | Requisitos funcionais | Requisitos não funcionais |
-|:-----|:----------------------|:--------------------------|
-| Cadastros e fornecedores | RF01 a RF04, RF24 | |
-| Movimentações | RF05 a RF07, RF25 | RNF18 |
-| Inventário | RF08, RF09 | |
-| Validade e alertas | RF10, RF11, RF22, RF26 | |
-| Perdas | RF12 | |
-| Relatórios e indicadores | RF13 a RF16, RF23 | |
-| Acesso e segurança | RF17, RF18 | RNF02, RNF03 |
-| Auditoria e rastreabilidade | RF19 | RNF04, RNF13, RNF15 |
-| Compras | RF20, RF21 | |
-| Experiência de uso | | RNF05 a RNF07, RNF12, RNF17 |
-| Arquitetura e integração | | RNF01, RNF09 a RNF11, RNF14 |
-| Operação e qualidade | | RNF08, RNF16 |
+As fontes oficiais são o [PDF](requisitos-sistema/Documento%20de%20Requisitos%20Funcionais%203.0%20-%20Inventra.pdf) e a [planilha](requisitos-sistema/requisitos_estoque_cozinha.xlsx). As listas abaixo são uma cópia para leitura no GitHub.
 
 <details>
 <summary><b>Requisitos funcionais</b> (RF01 a RF26)</summary>
